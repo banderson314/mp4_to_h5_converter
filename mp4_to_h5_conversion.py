@@ -22,7 +22,7 @@ from tkinter import ttk, filedialog, messagebox
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Axistags  — THIS is what fixes the "no time axis" error in Ilastik
+# Axistags
 # ─────────────────────────────────────────────────────────────────────────────
 
 def make_axistags(grayscale: bool) -> str:
